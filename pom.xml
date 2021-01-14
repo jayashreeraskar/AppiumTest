@@ -55,7 +55,7 @@
 
 			<artifactId>poi</artifactId>
 
-			<version>3.11</version>
+			<version>3.17</version>
 
 		</dependency>
 
